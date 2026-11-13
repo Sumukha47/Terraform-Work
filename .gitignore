@@ -3,5 +3,4 @@
 *.tfstate.*
 crash.log
 demo-key
-demo-key.pub
 *.pem
